@@ -11,4 +11,8 @@ char* StrCpy(char* src)
      s[len] = '\0';
      return s;
 }
+<<<<<<< HEAD
   //本地编辑
+=======
+//远程edit
+>>>>>>> 6496fd4fb25b17d666138162be1d3d08a4a451e3
