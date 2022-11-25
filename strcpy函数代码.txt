@@ -12,4 +12,4 @@ char* StrCpy(char* src)
      return s;
 }
 
-//远程编辑//
+//本地编辑//
